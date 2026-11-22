@@ -1,6 +1,6 @@
 {
   "name": "complicache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Schema-driven Next.js Data Cache — definisikan entri cache, dependency graph, dan model effects sekali, pakai konsisten di semua proyek tanpa ribet cari sambungan.",
   "keywords": [
     "next.js",
